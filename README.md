@@ -79,17 +79,6 @@ This enabled separate analysis of **movie durations (minutes)** and **TV show se
 
 ---
 
-# 🛠️ Technologies Used
-
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
-
----
-
 # 📚 Skills Demonstrated
 
 - Data Cleaning
